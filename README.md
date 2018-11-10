@@ -7,7 +7,6 @@
 
 ## 🔨 Usage
 
-#### Method 1
 ```bash
 # clone the repo
 $ git clone https://github.com/sdushantha/getroot.git
@@ -17,11 +16,6 @@ $ cd getroot
 
 # run the script
 $ sh getroot.sh
-```
-
-#### Method 2
-```bash
-$ curl https://raw.githubusercontent.com/sdushantha/getroot/master/getroot.sh | sh
 ```
 
 ## 🤔 FAQ
